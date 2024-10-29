@@ -2,6 +2,8 @@
 
 ![](https://i.redd.it/urnx2j0kb3151.jpg)
 
+(Source: [Link](https://www.reddit.com/r/NatureIsFuckingLit/comments/gquufn/most_impressive_eyes_from_the_animal_kingdom/#lightbox))
+
 ## Overview
 
 This is a curated collection exploring the wonders of animal vision and perception, revealing how these creatures perceive the world differently from us.
