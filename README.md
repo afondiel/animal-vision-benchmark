@@ -1,13 +1,16 @@
 # Animal Vision Benchmark
 
+## Overview
+
 This is a curated collection exploring the wonders of animal vision and perception, revealing how these creatures perceive the world differently from us.
+
+![](./docs/infographics/90-animals-ranked-by-eyesight-2.png)
 
 ## 90 Animals Ranked by Eyesigh
 
 ### Benchmarking 
 
 ![](./docs/infographics/90-animals-ranked-by-eyesight-1.png)
-![](./docs/infographics/90-animals-ranked-by-eyesight-2.png)
 
 ### BIRDS
 
