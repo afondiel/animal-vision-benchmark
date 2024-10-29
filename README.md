@@ -45,3 +45,8 @@ This is a curated collection exploring the wonders of animal vision and percepti
 Wikipedia: 
 
 - [Flicker fusion threshold](https://en.wikipedia.org/wiki/Flicker_fusion_threshold)
+
+Books:
+
+- [Animal Eyes: How Creatures See and How Their Eyes Have Adapted to Their World - Francoise Vulpe](https://www.amazon.fr/Animal-Eyes-Creatures-Their-Adapted/dp/0228104130)
+  
