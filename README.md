@@ -11,7 +11,7 @@ This is a curated collection exploring the wonders of animal vision and percepti
 
 ### BIRDS
 
-![birds](./docs/infographics/birds)
+![birds](./docs/infographics/birds.png)
 
 ### MAMMALS
 
