@@ -1,5 +1,7 @@
 # Animal Vision Benchmark
 
+![](https://i.redd.it/urnx2j0kb3151.jpg)
+
 ## Overview
 
 This is a curated collection exploring the wonders of animal vision and perception, revealing how these creatures perceive the world differently from us.
