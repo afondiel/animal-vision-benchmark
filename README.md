@@ -41,6 +41,7 @@ This is a curated collection exploring the wonders of animal vision and percepti
 ## References
 - Official source - www.lasikbyoclivision.com: https://www.lasikbyoclivision.com/90-animals-ranked-by-eyesight/
 - Reddit chart: https://www.reddit.com/r/Infographics/comments/16g7h99/90_animals_ranked_by_eyesight_and_how_they/?rdt=61436
+- [32 Facts About Animal Eyes - discoveryeye.org](https://discoveryeye.org/32-facts-about-animal-eyes/)
 
 Wikipedia: 
 
